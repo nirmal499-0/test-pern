@@ -1,8 +1,8 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import "./App.css";
 
-import InputTodo from  './components/inputTodo';
-import ListTodo from  './components/listTodo';
+import InputTodo from "./components/inputTodo";
+import ListTodo from "./components/listTodo";
 
 function App() {
   return (
@@ -14,3 +14,5 @@ function App() {
 }
 
 export default App;
+
+//comment for stash example
